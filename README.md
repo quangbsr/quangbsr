@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @quangbsr
+- 👋 Hi, I’m Quang, from Vietnam.
 - 👀 I’m interested in vacuum cleaner robot.
 - 🌱 I’m currently learning how to program or install or modify firmware for Ecovacs, Xiaomi, Dreame and all other types.
 - 💞️ I’m looking to collaborate on working with maintenance, install, progam for these types of robot.
